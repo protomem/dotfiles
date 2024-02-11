@@ -1,0 +1,1 @@
+/home/protomem/.asdf/completions/asdf.fish
