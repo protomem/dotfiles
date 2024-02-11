@@ -1,0 +1,18 @@
+# BEGIN_KITTY_THEME
+# One Half Dark
+include current-theme.conf
+# END_KITTY_THEMEize nno
+
+
+remember_window_size  yes
+#initial_window_width  1250
+#initial_window_height 900
+
+#background_opacity 0.85
+#background_blur 1
+
+font_family SauceCodePro Nerd Font Mono
+font_size 14
+
+#linux_display_server x11
+
